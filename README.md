@@ -1,1 +1,1 @@
-# Donationaly
+# Donation Managment System
